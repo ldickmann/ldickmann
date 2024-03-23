@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ldickmann
-- 👀 I’m interested in Pythhon, Javascript, HTML, CSS and mmore languages...
+- 👀 I’m interested in Pythhon, Javascript, HTML, CSS and more languages...
 - 🌱 I'm currently studying systems analysis and development at Universidade do Vale do Itajaí
 - 📫 Contact me via Linkedin www.linkedin.com/in/lucas-dickmann or email ldickmann12@gmail.com
 
