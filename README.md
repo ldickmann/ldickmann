@@ -1,4 +1,8 @@
+Oi. Tudo certo? Sou o Lucas Dickmann
 # 💫 About Me:
+
+🔭 Atualmente estou trabalhando como front_end no meu próprio site e procurando um estágio, trainee ou posição júnior.<br>👯 Estou procurando colaborar em softwares Py e JS.<br>🤝 Estou procurando ajuda com CSS, JS, Python e Data Analytics.<br>🌱 Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>
+
 🔭 I am currently working as a front_end on my own website and looking for an internship, trainee or junior position.<br>👯 I'm looking to collaborate on Py and JS software.<br>🤝 I'm looking for help with CSS, JS, Python, and Data Analytics.<br>🌱 Currently studying higher education in ADS<br>
 
 
