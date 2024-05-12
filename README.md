@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
- # Oi! Tudo certo? Me chamo Lucas Dickmann<br><br>🇧🇷 Atualmente tenho um site onde desenvolvi parte do front-end, porém é algo temporário minha busca é por um estágio, trainee ou posição júnior.<br><br>🇺🇸 I currently have a website where I developed part of the front-end, but it is temporary and my search is for an internship, trainee or junior position.<br><br><br>👯 Estou procurando colaborar em softwares Python. <br><br>🤝 Estou procurando ajuda com CSS, HTML5, Node.Js JS, Python e Data Analytics.<br><br>🌱 Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br> <br>💻 Estou focado no meu script de Locador.py, comecei a implementar uma interface nele.<br><br>
+ # Oi! Tudo certo?<br><br>🇧🇷 Atualmente tenho um site onde desenvolvi parte do front-end, porém é algo temporário minha busca é por um estágio, trainee ou posição júnior.<br><br>🇺🇸 I currently have a website where I developed part of the front-end, but it is temporary and my search is for an internship, trainee or junior position.<br><br><br>👯 Estou procurando colaborar em softwares Python. <br><br>🤝 Estou procurando ajuda com CSS, HTML5, Node.Js JS, Python e Data Analytics.<br><br>🌱 Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br> <br>💻 Estou focado no meu script de Locador.py, comecei a implementar uma interface nele.<br><br>
 
 
 ## 🌐 Socials:
