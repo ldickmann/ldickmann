@@ -1,6 +1,6 @@
-## 💫 About Me:
+# 💫 About Me:
 
- # Oi! Tudo certo?<br><br>🇧🇷 Atualmente tenho um site onde desenvolvi parte do front-end, porém é algo temporário minha busca é por um estágio, trainee ou posição júnior.<br><br>🇺🇸 I currently have a website where I developed part of the front-end, but it is temporary and my search is for an internship, trainee or junior position.<br><br><br>👯 Estou procurando colaborar em softwares Python. <br><br>🤝 Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e Data Analytics.<br><br>🌱 Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>
+### Oi! Tudo certo?<br><br>🇧🇷 Atualmente procuro por um estágio, trainee ou posição júnior.<br>🇺🇸 I am currently looking for an internship, trainee or junior position.<br><br>👯Estou procurando colaborar em softwares Python, Django, CSS3 e HTML5.<br>I'm looking to collaborate on Python, Django, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e Data Analytics.<br>I'm looking for help with CSS3, HTML5, Django, JS, Python and Data Analytics.<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
 
 ## 🌐 Socials:
