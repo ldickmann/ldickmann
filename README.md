@@ -2,43 +2,54 @@
 
 # 💫 Sobre Mim/About Me:
 
-### Oi! Tudo certo?<br><br>🇧🇷 Atualmente procuro por um estágio, trainee ou posição júnior.<br>🇺🇸 I am currently looking for an internship, trainee or junior position.<br><br>👯Estou procurando colaborar em softwares Python, Django, CSS3 e HTML5.<br>I'm looking to collaborate on Python, Django, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e SQL.<br>I'm looking for help with CSS3, HTML5, Django, JS, Python and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
+### Oi! Tudo certo?<br><br>🇧🇷 Atualmente procuro por um estágio, trainee ou posição júnior.<br>🇺🇸 I am currently looking for an internship, trainee or junior position.<br><br>👯Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e SQL.<br>I'm looking for help with CSS3, HTML5, Django, JS, Python and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
 
-# 💻 Minhas Skills:
+# 💻 Minhas Devs Skills:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img width="12" />
 </div>
 
 #### Frameworks
 <div align"=left">
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img width="12" />
 </div>
 
 
 #### Ferramentas
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align"=left">
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+</div>
+
+### Minhas UX Skills:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+</div>
 
 #
 
