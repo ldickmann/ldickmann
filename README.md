@@ -64,16 +64,15 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=ldickmann&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=blueberry&hide_border=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="right"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ldickmann&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=blueberry&show_icons=true&hide_border=true&layout=compact"
         alt="Github Stats"
-      />
     </td>
   </tr>
 </table>
