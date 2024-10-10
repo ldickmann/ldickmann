@@ -2,7 +2,7 @@
 
 # 💫 Sobre Mim/About Me:
 
-### Oi! Tudo certo?<br><br>🇧🇷<br>👯Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e SQL.<br>I'm looking for help with CSS3, HTML5, Django, JS, Python and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
+### Oi! Tudo certo?<br><br>🇧🇷 Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, JS, Python e SQL.<br>I'm looking for help with CSS3, HTML5, Django, JS, Python and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
 
 ## 🌐 Socials:
