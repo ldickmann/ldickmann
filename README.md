@@ -4,7 +4,6 @@
 
 ### Oi! Tudo certo?<br><br>🇧🇷 Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com CSS3, HTML5, Django, Quasar, JS, Python, Vue.js e SQL.<br><br>I'm looking for help with CSS3, HTML5, Django, Quasar, JS, Python, Vue.js and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br><br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
 
@@ -36,7 +35,6 @@
   <img width="12" />
 </div>
 
-
 #### Ferramentas
 <div align"=left">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
@@ -52,14 +50,28 @@
 </div>
 
 #
-
-<h3 align="center">EM CONSTANTE DESENVOLVIMENTO EM LINGUAGENS, FRAMEWORKS E DE MAIS FERRAMENTAS. </h3>
+<h2 align="left">Hard Skills em evolução atualmente:</h2>
+<h3 align="left">Language</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+<h3 align="left">Style language</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+</div>
+<h3 align="left">Frameworks</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
+</div>
 
 #
-
 <h2 align="center">Github Stats</h2>
-
-<table>
+<table align="center">
   <tr>
     <td>
       <img
@@ -76,8 +88,3 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ldickmann}/count.svg" /></p> 
-<br></div>
