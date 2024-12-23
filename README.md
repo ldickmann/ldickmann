@@ -6,10 +6,10 @@
 
 ### 🇺🇸 Hi, are you okay?<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js and SQL<br><br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
-## 🌐 Social Media:
+## 🌐 Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
 
-# 💻 Dev Skills:
+# 💻 Dev Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
@@ -43,14 +43,14 @@
   <img width="12" />
 </div>
 
-### Minhas UX | UI Skills:
+### Minhas UX | UI Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
 </div>
 
 #
-<h2 align="left">Hard Skills em evolução atualmente:</h2>
+<h2 align="left">Hard Skills em evolução atualmente</h2>
 <h3 align="left">Language</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
