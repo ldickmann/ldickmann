@@ -6,7 +6,7 @@
 
 ### 🇺🇸 Hi, are you okay?<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js and SQL<br><br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
 
 # 💻 Dev Skills:
