@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Olá+DEV.+Bem-vindo+ao+meu+GitHub!+Bora+codificar!;Prazer%2C+meu+nome+%C3%A9+Lucas+Dickmann.)](https://git.io/typing-svg)
 
-# 💫 Sobre Mim/About Me:
+# About Me:
 
 ### Oi! Tudo certo?<br><br>🇧🇷 Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝Estou procurando ajuda com Sass, Django, Quasar, JS, Python, Vue.js, Nome.js e SQL.<br><br>I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, Node.js and SQL<br><br>🌱Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br><br>Currently studying higher education in ADS [Systems Analysis and Development]<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
 
-# 💻 Minhas Devs Skills:
+# 💻 Dev Skills:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
