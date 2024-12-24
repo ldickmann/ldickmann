@@ -43,7 +43,7 @@
   <img width="12" />
 </div>
 
-### Minhas UX | UI Skills
+#### UX | UI
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
