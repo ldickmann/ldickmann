@@ -2,9 +2,9 @@
 
 # About Me
 
-### 🇧🇷 Oi! Tudo certo?<br><br>Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br><br>🤝Estou procurando ajuda com Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js e SQL.<br><br>Atualmente cursando ensino superior em ADS[Análise e Desenvolvimento de Sistemas]<br>e estagiando em desenvolvimento front-end.
+### 🇧🇷 Oi! Tudo certo?<br><br>Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br><br>🤝Estou procurando ajuda com Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js e SQL.<br><br>Atualmente cursando ensino superior em ADS (Análise e Desenvolvimento de Sistemas) e estagiando em desenvolvimento front-end.
 
-### 🇺🇸 Hi, are you okay?<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js and SQL<br><br>Currently studying higher education in ADS [Systems Analysis and Development]<br>and trainee in front-end development.
+### 🇺🇸 Hi, are you okay?<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js and SQL<br><br>Currently studying higher education in ADS (Systems Analysis and Development) and trainee in front-end development.
 
 ## 🌐 Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
