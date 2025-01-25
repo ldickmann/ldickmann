@@ -1,95 +1,52 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Olá+DEV.+Bem-vindo+ao+meu+GitHub!+Bora+codificar!;Prazer%2C+meu+nome+%C3%A9+Lucas+Dickmann.)](https://git.io/typing-svg)
 
-# About Me
+# 👋 About Me  
+Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently studying **Systems Analysis and Development (ADS)**.  
 
-### 🇧🇷 Oi! Tudo certo?<br><br>Estou procurando colaborar em softwares Python, Django, Django Rest Framework, CSS3 e HTML5.<br><br>🤝Estou procurando ajuda com Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js e SQL.<br><br>Atualmente cursando ensino superior em ADS (Análise e Desenvolvimento de Sistemas) e estagiando em desenvolvimento front-end.
+💻 I work mainly with **Python, Django, Django REST Framework, CSS3, and HTML5**.  
+🚀 I'm looking to collaborate on open-source projects and improve my skills in **Vue.js, React, Node.js, SQL, Sass, Django, and Quasar**.  
+📌 Currently focused on **front-end development** with modern frameworks.  
 
-### 🇺🇸 Hi, are you okay?<br><br>I'm looking to collaborate on Python, Django, Django Rest Framework, CSS3 and HTML5 software.<br><br>🤝I'm looking for help with Sass, Django, Quasar, JS, Python, Vue.js, React, Node.js and SQL<br><br>Currently studying higher education in ADS (Systems Analysis and Development) and trainee in front-end development.
+## 🌐 Social Media  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)  
 
-## 🌐 Social Media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)
+---
 
-# 💻 Dev Skills
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img width="12" />
+## 🚀 Tech Stack  
+
+### 💻 Languages  
+![Python](https://skillicons.dev/icons?i=python)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![TypeScript](https://skillicons.dev/icons?i=typescript)  
+![SQL](https://skillicons.dev/icons?i=postgresql)  
+
+### 🎨 Front-end  
+![HTML5](https://skillicons.dev/icons?i=html)  
+![CSS3](https://skillicons.dev/icons?i=css)  
+![Sass](https://skillicons.dev/icons?i=sass)  
+![Vue.js](https://skillicons.dev/icons?i=vue)  
+![React](https://skillicons.dev/icons?i=react)  
+![Quasar](https://skillicons.dev/icons?i=quasar)  
+
+### ⚙️ Back-end & Frameworks  
+![Django](https://skillicons.dev/icons?i=django)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+
+### 🛠️ Tools  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![Postman](https://skillicons.dev/icons?i=postman)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  
+![PyCharm](https://skillicons.dev/icons?i=pycharm)  
+
+### 🎨 UX/UI  
+![Figma](https://skillicons.dev/icons?i=figma)  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=blueberry&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=blueberry&layout=compact&hide_border=true" />
 </div>
-
-#### Frameworks
-<div align"=left">
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  <img width="12" />
-</div>
-
-#### Ferramentas
-<div align"=left">
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-</div>
-
-#### UX | UI
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
-
-#
-<h2 align="left">Hard Skills em evolução atualmente</h2>
-<h3 align="left">Language</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-  <img width="12" />
-</div>
-<h3 align="left">Style language</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-</div>
-<h3 align="left">Frameworks</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="12" />
-</div>
-<h3 align="left">Library</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-#
-<h2 align="center">Github Stats</h2>
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=blueberry&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=blueberry&show_icons=true&hide_border=true&layout=compact"
-        alt="Github Stats"
-    </td>
-  </tr>
-</table>
