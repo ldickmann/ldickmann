@@ -16,32 +16,29 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 ## 🚀 Tech Stack  
 
 ### 💻 Languages  
-![Python](https://skillicons.dev/icons?i=python)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![SQL](https://skillicons.dev/icons?i=postgresql)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,postgresql" height="40"/>
+</div>
 
 ### 🎨 Front-end  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![Sass](https://skillicons.dev/icons?i=sass)  
-![Vue.js](https://skillicons.dev/icons?i=vue)  
-![React](https://skillicons.dev/icons?i=react)  
-![Quasar](https://skillicons.dev/icons?i=quasar)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,quasar" height="40"/>
+</div>
 
 ### ⚙️ Back-end & Frameworks  
-![Django](https://skillicons.dev/icons?i=django)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=django,nodejs" height="40"/>
+</div>
 
 ### 🛠️ Tools  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Postman](https://skillicons.dev/icons?i=postman)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-![PyCharm](https://skillicons.dev/icons?i=pycharm)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm" height="40"/>
+</div>
 
 ### 🎨 UX/UI  
-![Figma](https://skillicons.dev/icons?i=figma)  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+</div>
 
 ---
 
