@@ -10,11 +10,11 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 ## 🌐 Social Media
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucas-dickmann)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="display: inline-block; height: 40px; margin-right: 10px;"/>
+  <a href="https://www.linkedin.com/in/lucas-dickmann" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.instagram.com/luksdickmann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" style="display: inline-block; height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </div>
 
