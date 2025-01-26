@@ -17,12 +17,18 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 
 ### 💻 Languages  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,postgresql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,typescript" height="40"/>
 </div>
 
 ### 🎨 Front-end  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,quasar" height="40"/>
+</div>
+
+### 🗄 Database
+<div align="left">
+  <img
+src="https://skillicons.dev/icons?i=postgresql" height="40"/>
 </div>
 
 ### ⚙️ Back-end & Frameworks  
