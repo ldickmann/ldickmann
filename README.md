@@ -8,9 +8,14 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 📌 Currently focused on **front-end development** with modern frameworks.  
 
 ## 🌐 Social Media
-<div align=left">
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-dickmann)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luksdickmann)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-dickmann)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="display: inline-block; width: 24px; height: 24px; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/luksdickmann" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" style="display: inline-block; width: 24px; height: 24px;"/>
+  </a>
 </div>
 
 ---
