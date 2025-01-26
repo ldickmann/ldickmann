@@ -7,9 +7,11 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 🚀 I'm looking to collaborate on open-source projects and improve my skills in **Vue.js, React, Node.js, SQL, Sass, Django, and Quasar**.  
 📌 Currently focused on **front-end development** with modern frameworks.  
 
-## 🌐 Social Media  
+## 🌐 Social Media
+<div align=left">
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-dickmann)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luksdickmann)
+</div>
 
 ---
 
