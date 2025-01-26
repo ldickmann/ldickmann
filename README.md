@@ -3,8 +3,8 @@
 # 👋 About Me  
 Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently studying **Systems Analysis and Development (ADS)**.  
 
-💻 I work mainly with **Python, Django, Django REST Framework, CSS3, and HTML5**.  
-🚀 I'm looking to collaborate on open-source projects and improve my skills in **Vue.js, React, Node.js, SQL, Sass, Django, and Quasar**.  
+💻 I work mainly with **Javascript, Python, React, Django, CSS3, and HTML5**.  
+🚀 I'm looking to collaborate on open-source projects and improve my skills in **Vue.js, React, Node.js, Sass, SCSS, Django, Quasar and Bootstrap**.  
 📌 Currently focused on **front-end development** with modern frameworks.  
 
 ## 🌐 Social Media
