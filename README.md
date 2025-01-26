@@ -33,7 +33,7 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 ### 🗄 Database
 <div align="left">
   <img
-src="https://skillicons.dev/icons?i=postgresql, mongodb" height="40"/>
+src="https://skillicons.dev/icons?i=postgresql,mongodb" height="40"/>
 </div>
 
 ### 🛠️ Tools  
