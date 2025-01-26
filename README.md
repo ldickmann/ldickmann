@@ -25,15 +25,15 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
   <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,quasar" height="40"/>
 </div>
 
-### 🗄 Database
-<div align="left">
-  <img
-src="https://skillicons.dev/icons?i=postgresql" height="40"/>
-</div>
-
 ### ⚙️ Back-end & Frameworks  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=django,nodejs" height="40"/>
+</div>
+
+### 🗄 Database
+<div align="left">
+  <img
+src="https://skillicons.dev/icons?i=postgresql, mongodb" height="40"/>
 </div>
 
 ### 🛠️ Tools  
