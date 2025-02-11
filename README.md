@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Olá+DEV.+Bem-vindo+ao+meu+GitHub!+Bora+codificar!;Prazer%2C+meu+nome+%C3%A9+Lucas+Dickmann.)](https://git.io/typing-svg)
 
+<div id="header" align="center">
+<img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100" />
+</div>
+
 # 👋 About Me  
 Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently studying **Systems Analysis and Development (ADS)**.  
 
