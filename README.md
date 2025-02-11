@@ -61,6 +61,6 @@ src="https://skillicons.dev/icons?i=postgresql,mongodb" height="40"/>
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=blueberry&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=blueberry&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=shadow_red&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=shadow_red&layout=compact&hide_border=true" />
 </div>
