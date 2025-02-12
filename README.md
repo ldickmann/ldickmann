@@ -29,7 +29,7 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 
 ### 💻 Languages  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js" height="40"/>
 </div>
 
 ### 🎨 Front-end  
