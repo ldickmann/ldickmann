@@ -1,29 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Olá+DEV.+Bem-vindo+ao+meu+GitHub!+Bora+codificar!;Prazer%2C+meu+nome+%C3%A9+Lucas+Dickmann.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Hello+DEV!+Welcome+to+my+GitHub!+Let's+code!;Nice+to+meet+you,+I'm+Lucas+E+Dickmann.)](https://git.io/typing-svg)
 
 <div id="header" align="start">
   <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
     width="100" />
 </div>
 
-# 👋 About Me  
-Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently studying **Systems Analysis and Development (ADS)**.  
+## 👋 About Me
 
-💻 I work mainly with **Javascript, Python, React, Django, CSS3, and HTML5**.  
-🚀 I'm looking to collaborate on open-source projects and improve my skills in **Vue.js, React, Node.js, Sass, SCSS, Django, Quasar and Bootstrap**.  
-📌 Currently focused on **front-end development** with modern frameworks.  
+Hi there! I'm **Lucas Dickmann**, a **Full Stack Developer** with a passion for building scalable and efficient web applications.
 
-## 🌐 Social Media
+🎓 Currently, I'm studying **Systems Analysis and Development (ADS)** and have a strong foundation in **Python, Django, and JavaScript**.<br>
+🚀 I enjoy working with **modern front-end frameworks** like Vue.js and React, while also diving deep into **back-end development with Django and Node.js**.<br>
+💡 Always eager to learn, I actively contribute to open-source projects and am currently exploring **Quasar Framework, SCSS, advanced Vue.js and React concepts**.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-dickmann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.instagram.com/luksdickmann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</div>
+## 🌐 Connect with Me
 
----
+<a href="https://www.linkedin.com/in/lucas-dickmann" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/luksdickmann" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 ## 🚀 Tech Stack  
 
@@ -34,7 +31,7 @@ Hello! My name is **Lucas Dickmann**. I am a **Full Stack Developer** currently 
 
 ### 🎨 Front-end  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,bootstrap,styledcomponents" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,bootstrap,styledcomponents,quasar" height="40"/>
 </div>
 
 ### ⚙️ Back-end & Frameworks  
@@ -63,5 +60,7 @@ src="https://skillicons.dev/icons?i=postgresql,mongodb" height="40"/>
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=shadow_red&hide_border=true" />
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=shadow_red&layout=compact&hide_border=true" />
 </div>
+
