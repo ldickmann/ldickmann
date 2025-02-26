@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E94D5F&width=435&lines=Hello+DEV!+Welcome+to+my+GitHub!+Let's+code!;Nice+to+meet+you,+I'm+Lucas+E+Dickmann.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=007A00&width=435&lines=Hello+DEV!+Welcome+to+my+GitHub!+Let's+code!;Nice+to+meet+you,+I'm+Lucas+E+Dickmann.)](https://git.io/typing-svg)
 
 <div id="header" align="start">
   <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
@@ -59,8 +59,7 @@ src="https://skillicons.dev/icons?i=postgresql,mongodb" height="40"/>
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldickmann&theme=shadow_red&hide_border=true" />
+  <img width="350rem" src="https://github-readme-stats.vercel.app/api?username=ldickmann&theme=shadow_green&hide_rank=true" />
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&theme=shadow_red&layout=compact&hide_border=true" />
+  <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&langs_count=8&theme=shadow_green&layout=donut-vertical" />
 </div>
-
