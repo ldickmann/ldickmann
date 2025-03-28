@@ -42,7 +42,7 @@ Hi there! I'm **Lucas Dickmann**, a **Full Stack Developer** with a passion for 
 ### 🗄 Database
 <div align="left">
   <img
-src="https://skillicons.dev/icons?i=postgresql,mongodb" height="40"/>
+src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
 </div>
 
 ### 🛠️ Tools  
