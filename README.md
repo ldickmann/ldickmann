@@ -56,10 +56,13 @@ src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
 </div>
 
 ---
-
-## 📊 GitHub Stats  
 <div align="center">
-  <img width="350rem" src="https://github-readme-stats.vercel.app/api?username=ldickmann&theme=dark&hide_rank=true" />
-  <br>
-  <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&langs_count=8&theme=dark&layout=donut" />
+<h1> 📊 GitHub Stats</h1>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldickmann&theme=gotham" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ldickmann&theme=gotham" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ldickmann&theme=gotham" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldickmann&theme=gotham" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldickmann&theme=gotham&utcOffset=8" />
+  
+  <!--<img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&langs_count=8&theme=dark&layout=donut" /> -->
 </div>
