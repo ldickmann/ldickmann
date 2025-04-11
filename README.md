@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Lucas Dickmann**, a **Full Stack Developer** with a passion for building scalable and efficient web applications.
+Hello! I'm Lucas Dickmann, a front-end developer with solid knowledge and also a good foundation in back-end development, passionate about building scalable and efficient web applications.
 
 🎓 Currently, I'm studying **Systems Analysis and Development (ADS)** and have a strong foundation in **Python, Django, and JavaScript**.<br>
 🚀 I enjoy working with **modern front-end frameworks** like Vue.js and React, while also diving deep into **back-end development with Django and Node.js**.<br>
