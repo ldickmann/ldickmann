@@ -28,9 +28,9 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[Project Name 1](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `Python`, `Django`, `Vue.js` |
-| **[Project Name 2](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `JavaScript`, `React`, `Node.js` |
-| **[Project Name 3](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `Python`, `FastAPI`, `MongoDB` |
+| **[completeDataSolution](https://github.com/ldickmann/completeDataSolution)** | End-to-end solutions for Web Scraping, Data Transformation, Databases, Front-end and APIs. | `Python`, `Beautiful Soup`, `Pandas`, `Flask` |
+| **[djangoSGE](https://github.com/ldickmann/djangoSGE)** | A full-stack inventory management system developed during the Django Master course. | `Python`, `Django`, `JavaScript` |
+| **[login-page](https://github.com/ldickmann/login-page)** | A responsive login page component. [Live Demo](https://login-page-luks-dev.vercel.app/) | `JavaScript`, `HTML`, `CSS` |
 
 ---
 
