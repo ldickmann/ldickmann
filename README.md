@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Lucas Dickmann, a full-stack developer with passionate about building scalable and efficient web applications.
+Hello! I'm Lucas Dickmann, a full-stack developer passionate about building scalable and efficient web applications.
 
 🎓 Currently, I'm studying **Systems Analysis and Development (ADS)** and have a strong foundation in **Python, Django, and JavaScript**.<br>
 🚀 I enjoy working with **modern front-end frameworks** like Vue.js and React, while also diving deep into **back-end development with Django and Node.js**.<br>
@@ -22,47 +22,72 @@ Hello! I'm Lucas Dickmann, a full-stack developer with passionate about building
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-## 🚀 Tech Stack  
+## 🚀 My Projects
 
-### 💻 Languages  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js" height="40"/>
-</div>
+Here are some of the projects I'm proud of. You can find more on my repositories tab.
 
-### 🎨 Front-end  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,bootstrap,styledcomponents,quasar" height="40"/>
-</div>
+| Project | Description | Technologies |
+|---|---|---|
+| **[Project Name 1](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `Python`, `Django`, `Vue.js` |
+| **[Project Name 2](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `JavaScript`, `React`, `Node.js` |
+| **[Project Name 3](http://your-repo-link.com)** | A brief description of your project, what it does, and the problem it solves. | `Python`, `FastAPI`, `MongoDB` |
 
-### ⚙️ Back-end & Frameworks  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=django,nodejs" height="40"/>
-</div>
+---
 
-### 🗄 Database
-<div align="left">
-  <img
-src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
-</div>
-
-### 🛠️ Tools  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm" height="40"/>
-</div>
-
-### 🎨 UX/UI  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-</div>
+<details>
+  <summary><h2>🚀 My Tech Stack</h2></summary>
+  <table width="100%">
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Languages</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=python,js" height="40"/>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3>Front-end</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,bootstrap,styledcomponents,quasar" height="40"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Back-end & Frameworks</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=django,nodejs" height="40"/>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3>Database</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Tools</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm" height="40"/>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3>UX/UI</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 <div align="center">
-<h1> 📊 GitHub Stats</h1>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldickmann&theme=gotham" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ldickmann&theme=gotham" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ldickmann&theme=gotham" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldickmann&theme=gotham" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldickmann&theme=gotham&utcOffset=8" />
-  
-  <!--<img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&langs_count=8&theme=dark&layout=donut" /> -->
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ldickmann&show_icons=true&theme=gotham&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&layout=compact&theme=gotham" />
+</details>
 </div>
