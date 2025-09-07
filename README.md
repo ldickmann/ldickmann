@@ -28,7 +28,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[completeDataSolution](https://github.com/ldickmann/completeDataSolution)** | End-to-end solutions for Web Scraping, Data Transformation, Databases, Front-end and APIs. | `Python`, `Beautiful Soup`, `Pandas`, `Flask` |
+| **[maos-de-tesoura](https://github.com/ldickmann/maos-de-tesoura)** A front-end application for a barber shop, with appointment scheduling. | `Vue.js`, `SCSS`, `JavaScript` |
 | **[djangoSGE](https://github.com/ldickmann/djangoSGE)** | A full-stack inventory management system developed during the Django Master course. | `Python`, `Django`, `JavaScript` |
 | **[login-page](https://github.com/ldickmann/login-page)** | A responsive login page component. [Live Demo](https://login-page-luks-dev.vercel.app/) | `JavaScript`, `HTML`, `CSS` |
 
