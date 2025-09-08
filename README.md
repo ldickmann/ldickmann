@@ -28,7 +28,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[maos-de-tesoura](https://github.com/ldickmann/maos-de-tesoura)** A front-end application for a barber shop, with appointment scheduling. | `Vue.js`, `SCSS`, `JavaScript` |
+| **[maos-de-tesoura](https://github.com/ldickmann/maos-de-tesoura)** | A front-end application for a barber shop, with appointment scheduling. [Live Demo](https://ldickmann.github.io/maos-de-tesoura/) | `Vue.js`, `SCSS`, `JavaScript` |
 | **[djangoSGE](https://github.com/ldickmann/djangoSGE)** | A full-stack inventory management system developed during the Django Master course. | `Python`, `Django`, `JavaScript` |
 | **[login-page](https://github.com/ldickmann/login-page)** | A responsive login page component. [Live Demo](https://login-page-luks-dev.vercel.app/) | `JavaScript`, `HTML`, `CSS` |
 
@@ -41,13 +41,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
       <td valign="top" width="50%">
         <h3>Languages</h3>
         <div align="left">
-          <img src="https://skillicons.dev/icons?i=python,js" height="40"/>
+          <img src="https://skillicons.dev/icons?i=js,python" height="40"/>
         </div>
       </td>
       <td valign="top" width="50%">
         <h3>Front-end</h3>
         <div align="left">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,bootstrap,styledcomponents,quasar" height="40"/>
+          <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react,styledcomponents,quasar" height="40"/>
         </div>
       </td>
     </tr>
@@ -55,13 +55,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
       <td valign="top" width="50%">
         <h3>Back-end & Frameworks</h3>
         <div align="left">
-          <img src="https://skillicons.dev/icons?i=django,nodejs" height="40"/>
+          <img src="https://skillicons.dev/icons?i=django" height="40"/>
         </div>
       </td>
       <td valign="top" width="50%">
         <h3>Database</h3>
         <div align="left">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+          <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
         </div>
       </td>
     </tr>
