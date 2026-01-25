@@ -7,11 +7,20 @@
 
 ## 👋 About Me
 
-Hello! I'm Lucas Dickmann, a full-stack developer passionate about building scalable and efficient web applications.
+Sou um desenvolvedor focado em Front-end (React/TypeScript) com sólida base Full Stack e especialização em Eficiência com IA Generativa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (formação prevista 07/2026) na Univali.<br>
 
-🎓 Currently, I'm studying **Systems Analysis and Development (ADS)** and have a strong foundation in **Python, Django, and JavaScript**.<br>
-🚀 I enjoy working with **modern front-end frameworks** like Vue.js and React, while also diving deep into **back-end development with Django and Node.js**.<br>
-💡 Always eager to learn, I actively contribute to open-source projects and am currently exploring **Quasar Framework, SCSS, advanced Vue.js and React concepts**.
+Minha abordagem combina o rigor técnico do desenvolvimento tradicional com o uso estratégico de ferramentas de IA para acelerar o ciclo de vida de software e otimizar resultados.
+
+🛠️ O que eu trago para a mesa:
+ - Performance & UX: Experiência real na otimização de sistemas, alcançando ganhos de 15% em performance de aplicações web/mobile e 8% de redução no tempo de carregamento utilizando Vue.js e Quasar.
+ - Acessibilidade e SEO: Foco em criar interfaces inclusivas e otimizadas para motores de busca, com histórico de 40% de aumento na usabilidade mobile e 35% na taxa de indexação orgânica.
+ - Full Stack Integration: Domínio na construção de sistemas ponta a ponta, integrando interfaces modernas com back-ends em Python/Django e bancos de dados como PostgreSQL e Supabase.
+ - IA & Produtividade: Certificado pela Google, IBM e Microsoft em Engenharia de Prompt e IA Generativa, aplicando essas tecnologias para refatoração de código, criação de testes e automação de processos.
+
+🚀 Atualmente focado em:
+ - Consolidar arquiteturas escaláveis com Next.js e TypeScript.
+ - Explorar o potencial de LLMs (Large Language Models) aplicados ao fluxo de desenvolvimento.
+ - Refinar habilidades em SQL avançado e manipulação de dados.
 
 ## 🌐 Connect with Me
 
