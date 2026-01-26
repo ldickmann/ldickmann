@@ -70,7 +70,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <td valign="top" width="50%">
           <h3 align="center">Front-end</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=react,typescript,vue,scss,quasar" height="50"/>
+            <img src="https://skillicons.dev/icons?i=react,typescript,vue,scss" height="50"/>
           </div>
         </td>
       </tr>
@@ -78,7 +78,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <td valign="top" width="50%">
           <h3 align="center">Back-end</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=python,django,node" height="50"/>
+            <img src="https://skillicons.dev/icons?i=python,django,nodejs" height="50"/>
           </div>
         </td>
         <td valign="top" width="50%">
