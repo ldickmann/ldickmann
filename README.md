@@ -112,7 +112,6 @@ Here are some of the projects I'm proud of. You can find more on my repositories
   <details open>
     <summary><h2>📊 GitHub Stats</h2></summary>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ldickmann&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&layout=compact&theme=gotham&hide_border=true" />
+    <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ldickmann&theme=shadow" />
   </details>
 </div>
