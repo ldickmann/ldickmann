@@ -1,9 +1,13 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100" />
-  
+
   <br />
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007A00&center=true&vCenter=true&width=435&lines=Hello+DEV!+Welcome!;Nice+to+meet+you!;I'm+Lucas+E.+Dickmann.)](https://git.io/typing-svg)
+
+  <br />
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=ldickmann&color=brightgreen&style=flat-square&label=Profile+Views)
 </div>
 
 ---
@@ -14,13 +18,15 @@ Sou um desenvolvedor focado em **Front-end (React/TypeScript)** com sólida base
 
 Minha abordagem combina o rigor técnico do desenvolvimento tradicional com o uso estratégico de ferramentas de IA para acelerar o ciclo de vida de software e otimizar resultados.
 
-### 🛠️ O que eu trago para a mesa:
+### 🛠️ O que eu trago para a mesa
+
 * **Performance & UX:** Experiência real na otimização de sistemas, alcançando ganhos de **15% em performance** de aplicações web/mobile e **8% de redução no tempo de carregamento** utilizando Vue.js e Quasar.
 * **Acessibilidade e SEO:** Foco em criar interfaces inclusivas e otimizadas para motores de busca, com histórico de **40% de aumento na usabilidade mobile** e **35% na taxa de indexação orgânica**.
 * **Full Stack Integration:** Domínio na construção de sistemas ponta a ponta, integrando interfaces modernas com back-ends em Python/Django e bancos de dados como PostgreSQL e Supabase.
 * **IA & Produtividade:** Certificado pela Google, IBM e Microsoft em Engenharia de Prompt e IA Generativa, aplicando essas tecnologias para refatoração de código, criação de testes e automação de processos.
 
-### 🚀 Atualmente focado em:
+### 🚀 Atualmente focado em
+
 * Consolidar arquiteturas escaláveis com **Next.js e TypeScript**.
 * Explorar o potencial de **LLMs** (Large Language Models) aplicados ao fluxo de desenvolvimento.
 * Refinar habilidades em SQL avançado e manipulação de dados.
@@ -31,13 +37,13 @@ Minha abordagem combina o rigor técnico do desenvolvimento tradicional com o us
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-dickmann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/luksdickmann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:Ldickmann12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
@@ -64,13 +70,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <td valign="top" width="50%">
           <h3 align="center">Languages</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=js,python" height="50"/>
+            <img src="https://skillicons.dev/icons?i=js,ts,python" height="50" alt="Languages"/>
           </div>
         </td>
         <td valign="top" width="50%">
           <h3 align="center">Front-end</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=react,typescript,vue,scss" height="50"/>
+            <img src="https://skillicons.dev/icons?i=react,nextjs,vue,scss" height="50" alt="Front-end"/>
           </div>
         </td>
       </tr>
@@ -78,13 +84,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <td valign="top" width="50%">
           <h3 align="center">Back-end</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=python,django,nodejs" height="50"/>
+            <img src="https://skillicons.dev/icons?i=python,django,nodejs" height="50" alt="Back-end"/>
           </div>
         </td>
         <td valign="top" width="50%">
           <h3 align="center">Database</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" height="50"/>
+            <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" height="50" alt="Database"/>
           </div>
         </td>
       </tr>
@@ -92,13 +98,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <td valign="top" width="50%">
           <h3 align="center">Tools</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,pycharm" height="50"/>
+            <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,pycharm" height="50" alt="Tools"/>
           </div>
         </td>
         <td valign="top" width="50%">
           <h3 align="center">UX/UI</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+            <img src="https://skillicons.dev/icons?i=figma" height="50" alt="UX/UI"/>
           </div>
         </td>
       </tr>
@@ -108,10 +114,31 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 <br />
 
+---
+
 <div align="center">
   <details open>
     <summary><h2>📊 GitHub Stats</h2></summary>
     <br/>
-    <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ldickmann&theme=shadow" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ldickmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ldickmann&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
+    <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ldickmann&theme=dark&hide_border=true" alt="GitHub Streak"/>
   </details>
+</div>
+
+<br />
+
+<div align="center">
+  <details open>
+    <summary><h2>🏆 GitHub Trophies</h2></summary>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ldickmann&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </details>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldickmann&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </div>
