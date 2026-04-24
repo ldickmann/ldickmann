@@ -49,16 +49,6 @@ Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100" />
-  
-  <br />
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007A00&center=true&vCenter=true&width=435&lines=Hello+DEV!+Welcome!;Nice+to+meet+you!;I'm+Lucas+E.+Dickmann.)](https://git.io/typing-svg)
-</div>
-
----
-
-<div align="center">
   <details open>
     <summary><h2>💻 Tech Stack</h2></summary>
     <br />
