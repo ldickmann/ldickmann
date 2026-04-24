@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Sou um desenvolvedor **Full Stack & Mobile** com foco em **React/TypeScript** e **Flutter/Dart**, especializado em **IA Generativa aplicada ao desenvolvimento de software**. Atualmente cursando Análise e Desenvolvimento de Sistemas (formação prevista 07/2026) na Univali.
+Sou um desenvolvedor **Full Stack & Mobile** com foco em **React/TypeScript** e **Javascript/Python**, especializado em **IA Generativa aplicada ao desenvolvimento de software**. Atualmente cursando Análise e Desenvolvimento de Sistemas (formação prevista 07/2026) na Univali.
 
 Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA para acelerar o ciclo de vida de software e entregar produtos de alta qualidade.
 
@@ -23,7 +23,7 @@ Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA
 
 ### 🚀 Atualmente focado em:
 
-* Arquiteturas escaláveis com **Next.js**, **TypeScript** e **Flutter**.
+* Arquiteturas escaláveis com **Next.js**, **TypeScript** e **Python**.
 * Agentes autônomos com **LangChain**, **Google Gemini** e técnicas de **RAG**.
 * Sistemas críticos com **CI/CD**, testes automatizados e boas práticas de engenharia.
 
@@ -48,17 +48,13 @@ Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=6c09b952q6ow6d77bfieduguhgiou31061099kogaezg61en&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100" />
+  
+  <br />
 
-Projetos que demonstram meu trabalho mais recente. Veja todos na aba de repositórios.
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **[e-receitasus](https://github.com/ldickmann/e-receitasus)** | 🏥 Plataforma full-stack de **prescrição médica digital para o SUS**. Médicos emitem receitas, pacientes acompanham histórico e solicitam renovações com fluxo de triagem por enfermeiro. Autenticação JWT via Supabase Auth, CI/CD com GitHub Actions. | `Flutter` `Dart` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Supabase` |
-| **[BelzAgent](https://github.com/ldickmann/BelzAgent)** | 🤖 Agente de IA criativa para a marca Belezuura — combina busca semântica em catálogos (RAG + ChromaDB) com geração de looks, legendas e imagens conceituais via Gemini e Stable Diffusion. | `Python` `LangChain` `Google Gemini` `ChromaDB` `FastAPI` `Gradio` |
-| **[smash-burguer](https://github.com/ldickmann/smash-burguer)** | 🍔 App web de delivery de hambúrgueres artesanais com autenticação, carrinho, histórico de pedidos e integração com API ViaCEP. Cobertura de testes com Vitest. | `Vue.js 3` `Pinia` `TypeScript` `SCSS` `Vitest` |
-| **[maos-de-tesoura](https://github.com/ldickmann/maos-de-tesoura)** | 💈 Aplicação front-end de agendamento para barbearias com catálogo de serviços e seleção de profissional/horário. [Live Demo](https://ldickmann.github.io/maos-de-tesoura/) | `Vue.js 3` `Pinia` `SCSS` `FontAwesome` |
-| **[new-portfolio](https://github.com/ldickmann/new-portfolio)** | 🗂️ Novo portfólio pessoal em desenvolvimento com TypeScript e as mais recentes práticas de UI/UX. | `TypeScript` `React` |
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007A00&center=true&vCenter=true&width=435&lines=Hello+DEV!+Welcome!;Nice+to+meet+you!;I'm+Lucas+E.+Dickmann.)](https://git.io/typing-svg)
+</div>
 
 ---
 
