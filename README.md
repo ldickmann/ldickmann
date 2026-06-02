@@ -113,12 +113,28 @@ Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ldickmann/BelzAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldickmann&repo=BelzAgent&theme=dark&hide_border=true&cache_seconds=1800" alt="BelzAgent" />
-  </a>
-  <a href="https://github.com/ldickmann/e-receitasus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldickmann&repo=e-receitasus&theme=dark&hide_border=true&cache_seconds=1800" alt="e-receitasus" />
-  </a>
+  <table width="100%" border="0">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3><a href="https://github.com/ldickmann/BelzAgent" style="text-decoration: none;">🤖 BelzAgent</a></h3>
+        <p>Agente inteligente focado em automação e integração de IA.</p>
+        <br/>
+        <a href="https://github.com/ldickmann/BelzAgent">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        </a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3><a href="https://github.com/ldickmann/e-receitasus" style="text-decoration: none;">🏥 e-receitasus</a></h3>
+        <p>Aplicativo móvel para prescrição médica digital integrada ao SUS.</p>
+        <br/>
+        <a href="https://github.com/ldickmann/e-receitasus">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -127,12 +143,7 @@ Minha abordagem combina rigor técnico com uso estratégico de ferramentas de IA
   <details open>
     <summary><h2>📊 GitHub Stats</h2></summary>
     <br/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ldickmann&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldickmann&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-    <br/><br/>
     <img src="https://streak-stats.demolab.com?user=ldickmann&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=ldickmann&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
   </details>
 </div>
 
