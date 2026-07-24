@@ -155,18 +155,7 @@ Verifiable credentials on [Credly](https://www.credly.com/users/lucasdickmann):
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldickmann&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00E676&text_color=c9d1d9&ring_color=007A00" height="170" alt="GitHub stats for ldickmann" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldickmann&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" height="170" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <br />
   <img src="https://streak-stats.demolab.com?user=ldickmann&hide_border=true&background=0d1117&ring=00C853&fire=00E676&currStreakLabel=00C853&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=00C853&dates=8b949e" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=ldickmann&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 <br />
@@ -209,3 +198,4 @@ Looking for teams running **e-commerce or content platforms in production** that
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007A00,50:00A82D,100:00C853&height=120&section=footer" alt="Footer banner" width="100%" />
 </div>
+
